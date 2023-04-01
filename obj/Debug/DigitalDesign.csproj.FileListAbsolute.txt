@@ -1,0 +1,8 @@
+D:\Программы\VS\DigitalDesign\DigitalDesign\bin\Debug\DigitalDesign.exe.config
+D:\Программы\VS\DigitalDesign\DigitalDesign\bin\Debug\DigitalDesign.exe
+D:\Программы\VS\DigitalDesign\DigitalDesign\bin\Debug\DigitalDesign.pdb
+D:\Программы\VS\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.AssemblyReference.cache
+D:\Программы\VS\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.SuggestedBindingRedirects.cache
+D:\Программы\VS\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.CoreCompileInputs.cache
+D:\Программы\VS\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.exe
+D:\Программы\VS\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.pdb
